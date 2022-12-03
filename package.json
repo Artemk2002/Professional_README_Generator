@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.5"
+  },
+  "name": "professional_readme_generator",
+  "description": "Module 9 challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artemk2002/Professional_README_Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artemk2002/Professional_README_Generator/issues"
+  },
+  "homepage": "https://github.com/Artemk2002/Professional_README_Generator#readme"
+}
